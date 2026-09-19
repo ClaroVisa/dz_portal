@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_main.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_education.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_telecom.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_interior.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_housing_insurance.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_finance.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_energy.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_health_transport_foreign.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_agriculture_employment.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://imadtbn.github.io/dz_portal/sitemap_emergency_others.xml</loc>
+    <lastmod>2026-06-26</lastmod>
+  </sitemap>
+
+</sitemapindex>

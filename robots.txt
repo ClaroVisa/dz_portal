@@ -1,0 +1,10 @@
+# robots.txt - البوابة الجزائرية للخدمات الرقمية
+# https://imadtbn.github.io/dz_portal/
+
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+Allow: /
+
+Sitemap: https://imadtbn.github.io/dz_portal/sitemap.xml
